@@ -1,0 +1,3 @@
+made this file because I thought git was automatically adding my files to
+staging area and then making a repo
+As even after making some changes the file didn't do green or "U"
